@@ -1,0 +1,18 @@
+{
+    "name": "spaghetticode/quest",
+    "description": "RPG Engine for PBC",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sam-sepi",
+            "email": "sam.sepi.84@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Quest\\Settings\\": "./settings"
+        }
+    }
+}
